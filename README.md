@@ -1,6 +1,6 @@
 Ticketmaster API Analysis
 
-This is a project analyzing the patterns between geographic location, genre,and event count.
+This is a project analyzing the patterns between geographic location, genre, and event count.
 
 To setup:
 1. Clone the repository
